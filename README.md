@@ -1,2 +1,2 @@
-# Professional-Certificates
+# Professional Certificates
 All certificates.
